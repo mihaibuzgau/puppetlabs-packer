@@ -8,5 +8,5 @@
     "iso_checksum_type"                     : "sha256",
     "vmware_vsphere_nocm_vmx_data_memsize"  : "4096",
     "vmware_vsphere_nocm_vmx_data_numvcpus" : "2",
-    "puppet_aio"                            : "http://apt.puppetlabs.com/pool/jessie/PC1/p/puppet-agent/puppet-agent_1.8.2-1jessie_amd64.deb"
+    "puppet_aio"                            : "http://apt.puppetlabs.com/pool/stretch/puppet5/p/puppet-agent/puppet-agent_5.5.10-1stretch_amd64.deb"
 }
